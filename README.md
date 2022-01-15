@@ -4,4 +4,4 @@ Repositorio criado para o desafio de Projeto
 
 Links Utéis
 
-[Sintaxe Básica Mark Down](https://www.markdownguide.org/getting-started/)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/getting-started/)
